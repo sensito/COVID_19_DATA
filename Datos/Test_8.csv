@@ -1,53 +1,55 @@
-426,PUEBLA,M,73,16/03/2020,confirmado,España,15/03/2020
-427,AGUASCALIENTES,F,40,18/03/2020,confirmado,Contacto,15/03/2020
-428,CIUDAD DE MÉXICO,M,76,10/03/2020,confirmado,Francia,11/03/2020
-429,GUANAJUATO,F,56,16/03/2020,confirmado,Francia,17/03/2020
-430,GUANAJUATO,F,53,16/03/2020,confirmado,Francia,17/03/2020
-431,GUANAJUATO,F,48,21/03/2020,confirmado,Francia,17/03/2020
-432,AGUASCALIENTES,F,47,12/03/2020,confirmado,Contacto,08/03/2020
-433,CIUDAD DE MÉXICO,M,46,17/03/2020,confirmado,Estados Unidos,02/03/2020
-434,MICHOACÁN,M,49,15/03/2020,confirmado,España,15/03/2020
-435,CIUDAD DE MÉXICO,M,10,13/03/2020,confirmado,Contacto,NA
-436,CIUDAD DE MÉXICO,F,88,20/03/2020,confirmado,Contacto,NA
-437,YUCATÁN,M,28,19/03/2020,confirmado,Francia,15/03/2020
-438,YUCATÁN,F,30,19/03/2020,confirmado,Francia,18/03/2020
-439,YUCATÁN,F,40,14/03/2020,confirmado,Contacto,NA
-440,CIUDAD DE MÉXICO,F,79,18/03/2020,confirmado,Contacto,NA
-441,AGUASCALIENTES,M,47,18/03/2020,confirmado,Contacto,NA
-442,CIUDAD DE MÉXICO,M,38,10/03/2020,confirmado,Contacto,NA
-443,PUEBLA,F,23,11/03/2020,confirmado,España,15/03/2020
-444,CIUDAD DE MÉXICO,M,64,15/03/2020,confirmado,Francia,11/03/2020
-445,CIUDAD DE MÉXICO,M,76,21/03/2020,confirmado,Contacto,21/03/2020
-446,CHIHUAHUA,F,18,21/03/2020,confirmado,España,18/03/2020
-447,NAYARIT,F,66,19/03/2020,confirmado,Estados Unidos,12/03/2020
-448,MÉXICO,M,67,13/03/2020,confirmado,Contacto,NA
-449,PUEBLA,F,69,17/03/2020,confirmado,Contacto,NA
-450,MÉXICO,F,62,13/03/2020,confirmado,Contacto,NA
-451,PUEBLA,M,72,16/03/2020,confirmado,Contacto,NA
-452,PUEBLA,F,38,18/03/2020,confirmado,Estados Unidos,18/03/2020
-453,OAXACA,F,62,20/03/2020,confirmado,Contacto,21/03/2020
-454,OAXACA,M,56,20/03/2020,confirmado,Contacto,NA
-455,OAXACA,F,21,19/03/2020,confirmado,Contacto,NA
-456,GUERRERO,F,82,23/03/2020,confirmado,España,13/03/2020
-457,PUEBLA,F,48,19/03/2020,confirmado,Contacto,NA
-458,PUEBLA,M,31,13/03/2020,confirmado,España,15/03/2020
-459,PUEBLA,M,26,12/03/2020,confirmado,Contacto,NA
-460,YUCATÁN,M,51,18/03/2020,confirmado,España,16/03/2020
-461,YUCATÁN,F,60,10/03/2020,confirmado,Francia,19/03/2020
-462,PUEBLA,M,24,20/03/2020,confirmado,Contacto,NA
-463,GUERRERO,M,29,15/03/2020,confirmado,Contacto,NA
-464,GUANAJUATO,F,56,16/03/2020,confirmado,Francia,17/03/2020
-465,GUANAJUATO,F,22,17/03/2020,confirmado,España,16/03/2020
-466,GUANAJUATO,M,65,20/03/2020,confirmado,España,14/03/2020
-467,GUANAJUATO,F,47,16/03/2020,confirmado,Francia,17/03/2020
-468,GUANAJUATO,M,29,16/03/2020,confirmado,España,16/03/2020
-469,GUANAJUATO,F,41,18/03/2020,confirmado,España,16/03/2020
-470,TABASCO,F,57,18/03/2020,confirmado,España,18/03/2020
-471,HIDALGO,F,16,20/03/2020,confirmado,Contacto,NA
-472,HIDALGO,M,17,13/03/2020,confirmado,Contacto,NA
-473,GUANAJUATO,M,24,15/03/2020,confirmado,Estados Unidos,19/03/2020
-474,JALISCO,M,36,15/03/2020,confirmado,Estados Unidos,08/03/2020
-475,JALISCO,F,25,13/03/2020,confirmado,Estados Unidos,06/03/2020
-476,CIUDAD DE MÉXICO,F,60,14/03/2020,confirmado,Contacto,NA
-477,CIUDAD DE MÉXICO,M,28,02/03/2020,confirmado,Estados Unidos,15/03/2020
-478,QUINTANA ROO,M,42,21/03/2020,confirmado,Estados Unidos,19/03/2020
+444,VERACRUZ,F,43,23/03/2020,Sospechoso,Contacto,NA
+445,BAJA CALIFORNIA SUR,M,35,15/03/2020,Sospechoso,Contacto,NA
+446,SONORA,F,36,24/03/2020,Sospechoso,Estados Unidos,20/03/2020
+447,JALISCO,F,36,19/03/2020,Sospechoso,Alemania,17/03/2020
+448,CIUDAD DE MÉXICO,M,22,20/03/2020,Sospechoso,Contacto,NA
+449,BAJA CALIFORNIA,F,29,19/03/2020,Sospechoso,Contacto,NA
+450,JALISCO,F,34,24/03/2020,Sospechoso,Contacto,NA
+451,AGUASCALIENTES,M,23,25/03/2020,Sospechoso,Estados Unidos,23/03/2020
+452,SONORA,M,35,20/03/2020,Sospechoso,España,22/03/2020
+453,VERACRUZ,M,28,22/03/2020,Sospechoso,Contacto,NA
+454,SONORA,F,21,19/03/2020,Sospechoso,Contacto,NA
+455,MÉXICO,F,40,22/03/2020,Sospechoso,Italia,24/03/2020
+456,JALISCO,F,23,23/03/2020,Sospechoso,Estados Unidos,23/03/2020
+457,BAJA CALIFORNIA,F,29,23/03/2020,Sospechoso,Contacto,NA
+458,CIUDAD DE MÉXICO,M,28,22/03/2020,Sospechoso,Contacto,NA
+459,CIUDAD DE MÉXICO,F,39,23/03/2020,Sospechoso,Estados Unidos,NA
+460,SONORA,F,32,19/03/2020,Sospechoso,España,23/03/2020
+461,PUEBLA,M,48,20/03/2020,Sospechoso,Contacto,NA
+462,PUEBLA,F,40,17/03/2020,Sospechoso,Contacto,NA
+463,CIUDAD DE MÉXICO,F,65,03/03/2020,Sospechoso,Contacto,NA
+464,SONORA,F,81,20/03/2020,Sospechoso,Estados Unidos,24/03/2020
+465,BAJA CALIFORNIA,M,8,23/03/2020,Sospechoso,Contacto,NA
+466,BAJA CALIFORNIA,M,23,21/03/2020,Sospechoso,Contacto,NA
+467,TLAXCALA,F,48,25/03/2020,Sospechoso,Contacto,NA
+468,JALISCO,M,57,10/03/2020,Sospechoso,Contacto,NA
+469,SINALOA,M,66,18/03/2020,Sospechoso,Contacto,NA
+470,CIUDAD DE MÉXICO,M,46,19/03/2020,Sospechoso,Contacto,NA
+471,BAJA CALIFORNIA,F,56,23/03/2020,Sospechoso,Estados Unidos,15/03/2020
+472,VERACRUZ,F,35,08/03/2020,Sospechoso,Contacto,NA
+473,TAMAULIPAS,M,47,22/03/2020,Sospechoso,Contacto,NA
+474,TLAXCALA,M,36,22/03/2020,Sospechoso,Contacto,NA
+475,VERACRUZ,M,26,23/03/2020,Sospechoso,Contacto,NA
+476,CHIAPAS,F,30,22/03/2020,Sospechoso,Contacto,NA
+477,PUEBLA,F,36,22/03/2020,Sospechoso,Contacto,NA
+478,MÉXICO,F,35,18/03/2020,Sospechoso,Contacto,NA
+479,JALISCO,F,67,12/03/2020,Sospechoso,Estados Unidos,27/02/2020
+480,SINALOA,F,40,20/03/2020,Sospechoso,Contacto,NA
+481,OAXACA,F,32,22/03/2020,Sospechoso,Contacto,07/03/2020
+482,CIUDAD DE MÉXICO,F,32,21/03/2020,Sospechoso,Estados Unidos,15/03/2020
+483,SAN LUIS POTOSÍ,F,24,17/03/2020,Sospechoso,Contacto,NA
+484,SINALOA,M,41,20/03/2020,Sospechoso,Contacto,NA
+485,JALISCO,M,29,18/03/2020,Sospechoso,Estados Unidos,16/03/2020
+486,BAJA CALIFORNIA,F,69,20/03/2020,Sospechoso,Contacto,10/03/2020
+487,QUINTANA ROO,F,33,23/03/2020,Sospechoso,Contacto,NA
+488,HIDALGO,F,24,22/03/2020,Sospechoso,Contacto,NA
+489,SINALOA,M,45,19/03/2020,Sospechoso,Contacto,NA
+490,TAMAULIPAS,F,47,23/03/2020,Sospechoso,Contacto,NA
+491,OAXACA,M,34,23/03/2020,Sospechoso,Contacto,NA
+492,BAJA CALIFORNIA,M,33,20/03/2020,Sospechoso,Contacto,05/03/2020
+493,BAJA CALIFORNIA,F,61,18/03/2020,Sospechoso,Estados Unidos,13/03/2020
+494,VERACRUZ,F,36,24/03/2020,Sospechoso,Contacto,NA
+495,VERACRUZ,F,35,19/03/2020,Sospechoso,Contacto,NA
+496,VERACRUZ,M,53,16/03/2020,Sospechoso,Contacto,NA
+497,JALISCO,F,39,22/03/2020,Sospechoso,Contacto,NA
+498,PUEBLA,M,57,23/03/2020,Sospechoso,Contacto,NA

@@ -1,53 +1,55 @@
-264,VERACRUZ,F,35,14/03/2020,confirmado,Estados Unidos,13/03/2020
-265,JALISCO,M,53,17/03/2020,confirmado,Contacto,NA
-266,VERACRUZ,M,27,17/03/2020,confirmado,Contacto,16/03/2020
-267,QUINTANA ROO,M,51,11/03/2020,confirmado,España,16/03/2020
-268,TAMAULIPAS,F,33,16/03/2020,confirmado,Francia,07/03/2020
-269,SAN LUIS POTOSÍ,M,46,12/03/2020,confirmado,Estados Unidos,12/03/2020
-270,CIUDAD DE MÉXICO,M,42,06/03/2020,confirmado,Contacto,NA
-271,CIUDAD DE MÉXICO,F,35,16/03/2020,confirmado,Estados Unidos,09/03/2020
-272,JALISCO,M,29,17/03/2020,confirmado,Singapur,09/03/2020
-273,TABASCO,F,37,10/03/2020,confirmado,Estados Unidos,11/03/2020
-274,CIUDAD DE MÉXICO,M,47,14/03/2020,confirmado,España,16/03/2020
-275,CIUDAD DE MÉXICO,M,34,14/03/2020,confirmado,Francia,12/03/2020
-276,JALISCO,M,55,09/03/2020,confirmado,España,12/03/2020
-277,CIUDAD DE MÉXICO,F,40,18/03/2020,confirmado,Contacto,NA
-278,JALISCO,M,58,17/03/2020,confirmado,Contacto,NA
-279,BAJA CALIFORNIA SUR,M,48,16/03/2020,confirmado,Estados Unidos,14/03/2020
-280,COAHUILA,F,41,18/03/2020,confirmado,España,14/03/2020
-281,CHIHUAHUA,M,47,18/03/2020,confirmado,Estados Unidos,13/03/2020
-282,CIUDAD DE MÉXICO,F,48,13/03/2020,confirmado,Contacto,NA
-283,CIUDAD DE MÉXICO,M,35,08/03/2020,confirmado,España,08/03/2020
-284,COAHUILA,M,29,17/03/2020,confirmado,Estados Unidos,15/03/2020
-285,CIUDAD DE MÉXICO,M,52,11/03/2020,confirmado,Contacto,NA
-286,CIUDAD DE MÉXICO,M,25,13/03/2020,confirmado,Contacto,NA
-287,MICHOACÁN,M,36,09/03/2020,confirmado,España,15/03/2020
-288,SINALOA,M,55,17/03/2020,confirmado,Contacto,NA
-289,BAJA CALIFORNIA,M,27,13/03/2020,confirmado,Francia,13/03/2020
-290,CHIHUAHUA,F,19,13/03/2020,confirmado,España,14/03/2020
-291,CIUDAD DE MÉXICO,M,37,16/03/2020,confirmado,España,16/03/2020
-292,CHIHUAHUA,F,21,16/03/2020,confirmado,España,14/03/2020
-293,CIUDAD DE MÉXICO,M,51,17/03/2020,confirmado,Contacto,08/03/2020
-294,YUCATÁN,F,40,15/03/2020,confirmado,Contacto,NA
-295,CIUDAD DE MÉXICO,M,36,14/03/2020,confirmado,Contacto,NA
-296,HIDALGO,F,55,12/03/2020,confirmado,Contacto,NA
-297,SAN LUIS POTOSÍ,F,27,17/03/2020,confirmado,Estados Unidos,18/03/2020
-298,JALISCO,F,38,15/03/2020,confirmado,Estados Unidos,16/03/2020
-299,SAN LUIS POTOSÍ,M,21,19/03/2020,confirmado,Contacto,18/03/2020
-300,SAN LUIS POTOSÍ,M,34,18/03/2020,confirmado,Francia,05/03/2020
-301,CAMPECHE,M,52,12/03/2020,confirmado,España,18/03/2020
-302,HIDALGO,F,26,18/03/2020,confirmado,Francia,17/03/2020
-303,TABASCO,F,71,17/03/2020,confirmado,España,17/03/2020
-304,YUCATÁN,F,17,10/03/2020,confirmado,Estados Unidos,08/03/2020
-305,YUCATÁN,F,19,10/03/2020,confirmado,Estados Unidos,08/03/2020
-306,YUCATÁN,M,39,14/03/2020,confirmado,Estados Unidos,14/03/2020
-307,SONORA,M,30,18/03/2020,confirmado,Francia,13/03/2020
-308,MICHOACÁN,F,57,15/03/2020,confirmado,Contacto,15/03/2020
-309,MICHOACÁN,M,57,18/03/2020,confirmado,Contacto,15/03/2020
-310,YUCATÁN,M,31,17/03/2020,confirmado,Contacto,NA
-311,BAJA CALIFORNIA,F,49,12/03/2020,confirmado,Contacto,NA
-312,ZACATECAS,M,39,19/03/2020,confirmado,Contacto,19/03/2020
-313,COLIMA,F,34,12/03/2020,confirmado,Estados Unidos,11/03/2020
-314,MÉXICO,M,44,19/02/2020,confirmado,Italia,22/02/2020
-315,MÉXICO,F,52,10/03/2020,confirmado,España,12/03/2020
-316,COAHUILA,M,43,16/03/2020,confirmado,Estados Unidos,13/03/2020
+276,AGUASCALIENTES,F,62,22/03/2020,Sospechoso,Contacto,NA
+277,MÉXICO,M,55,18/03/2020,Sospechoso,Contacto,NA
+278,BAJA CALIFORNIA,F,67,22/03/2020,Sospechoso,Estados Unidos,20/03/2020
+279,CIUDAD DE MÉXICO,F,44,09/03/2020,Sospechoso,España,12/03/2020
+280,CIUDAD DE MÉXICO,F,39,15/03/2020,Sospechoso,Contacto,NA
+281,MÉXICO,M,52,19/03/2020,Sospechoso,Contacto,NA
+282,MÉXICO,M,17,15/03/2020,Sospechoso,Contacto,NA
+283,BAJA CALIFORNIA,M,21,18/03/2020,Sospechoso,Estados Unidos,15/03/2020
+284,CIUDAD DE MÉXICO,F,22,16/03/2020,Sospechoso,Italia,14/03/2020
+285,MÉXICO,M,31,27/02/2020,Sospechoso,Italia,23/02/2020
+286,AGUASCALIENTES,F,25,16/03/2020,Sospechoso,Contacto,NA
+287,CIUDAD DE MÉXICO,M,48,14/03/2020,Sospechoso,España,29/02/2020
+288,GUERRERO,M,20,17/03/2020,Sospechoso,Contacto,NA
+289,MÉXICO,F,30,27/02/2020,Sospechoso,Italia,23/02/2020
+290,MÉXICO,F,27,15/03/2020,Sospechoso,España,18/03/2020
+291,CIUDAD DE MÉXICO,M,56,13/03/2020,Sospechoso,Italia,08/03/2020
+292,MÉXICO,F,5,18/03/2020,Sospechoso,Contacto,NA
+293,GUERRERO,F,46,22/03/2020,Sospechoso,Estados Unidos,12/03/2020
+294,AGUASCALIENTES,F,32,23/03/2020,Sospechoso,Contacto,NA
+295,MÉXICO,F,22,28/02/2020,Sospechoso,España,17/02/2020
+296,BAJA CALIFORNIA,F,27,23/03/2020,Sospechoso,Contacto,23/03/2020
+297,JALISCO,F,26,19/03/2020,Sospechoso,Contacto,NA
+298,MÉXICO,F,33,16/03/2020,Sospechoso,Estados Unidos,06/03/2020
+299,MÉXICO,F,37,19/03/2020,Sospechoso,Contacto,NA
+300,MÉXICO,M,23,07/02/2020,Sospechoso,Japón,29/02/2020
+301,JALISCO,F,33,09/03/2020,Sospechoso,Francia,08/03/2020
+302,AGUASCALIENTES,M,23,20/03/2020,Sospechoso,Contacto,19/03/2020
+303,MÉXICO,M,39,16/03/2020,Sospechoso,Contacto,NA
+304,CIUDAD DE MÉXICO,F,63,22/03/2020,Sospechoso,Estados Unidos,17/03/2020
+305,CIUDAD DE MÉXICO,M,44,17/03/2020,Sospechoso,Estados Unidos,13/03/2020
+306,MÉXICO,F,63,18/03/2020,Sospechoso,Contacto,NA
+307,JALISCO,F,64,10/03/2020,Sospechoso,Estados Unidos,27/02/2020
+308,MÉXICO,F,33,10/03/2020,Sospechoso,Japón,09/03/2020
+309,TABASCO,F,31,19/03/2020,Sospechoso,Contacto,NA
+310,MÉXICO,M,43,02/03/2020,Sospechoso,Estados Unidos,26/02/2020
+311,MÉXICO,M,47,16/03/2020,Sospechoso,España,15/03/2020
+312,MÉXICO,M,27,17/03/2020,Sospechoso,Contacto,NA
+313,MÉXICO,M,45,23/03/2020,Sospechoso,Contacto,NA
+314,AGUASCALIENTES,F,35,22/03/2020,Sospechoso,Alemania,17/03/2000
+315,BAJA CALIFORNIA,F,23,21/03/2020,Sospechoso,Estados Unidos,16/03/2020
+316,MÉXICO,M,41,11/03/2020,Sospechoso,Estados Unidos,13/03/2020
+317,MÉXICO,F,36,18/03/2020,Sospechoso,Contacto,NA
+318,MÉXICO,M,49,18/03/2020,Sospechoso,España,16/03/2020
+319,BAJA CALIFORNIA,F,48,22/03/2020,Sospechoso,Estados Unidos,23/03/2020
+320,MÉXICO,M,27,11/03/2020,Sospechoso,Estados Unidos,13/03/2020
+321,MÉXICO,M,46,11/03/2020,Sospechoso,Estados Unidos,13/03/2020
+322,MÉXICO,F,6,18/03/2020,Sospechoso,Contacto,NA
+323,MÉXICO,M,27,02/03/2020,Sospechoso,Francia,02/03/2020
+324,MÉXICO,M,15,17/03/2020,Sospechoso,Estados Unidos,14/03/2020
+325,MÉXICO,F,24,23/03/2020,Sospechoso,Contacto,NA
+326,NUEVO LEÓN,F,27,18/03/2020,Sospechoso,España,16/03/2020
+327,MÉXICO,M,33,16/03/2020,Sospechoso,Contacto,NA
+328,QUERETARO,M,36,07/03/2020,Sospechoso,Estados Unidos,08/03/2020
+329,MÉXICO,F,29,11/03/2020,Sospechoso,Italia,11/03/2020
+330,MÉXICO,M,30,14/03/2020,Sospechoso,Contacto,NA

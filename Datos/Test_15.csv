@@ -1,53 +1,55 @@
-804,CIUDAD DE MÉXICO,M,49,22/03/2020,confirmado,Contacto,NA
-805,MÉXICO,F,57,24/03/2020,confirmado,Contacto,18/03/2020
-806,MÉXICO,F,33,21/03/2020,confirmado,Estados Unidos,12/03/2020
-807,CIUDAD DE MÉXICO,F,30,12/03/2020,confirmado,Contacto,NA
-808,HIDALGO,M,29,23/03/2020,confirmado,España,23/03/2020
-809,GUANAJUATO,M,29,16/03/2020,confirmado,Contacto,NA
-810,CIUDAD DE MÉXICO,M,33,19/03/2020,confirmado,Francia,17/03/2020
-811,HIDALGO,M,41,18/03/2020,confirmado,Estados Unidos,16/03/2020
-812,CIUDAD DE MÉXICO,M,41,17/03/2020,confirmado,Contacto,17/03/2020
-813,MÉXICO,F,34,25/03/2020,confirmado,Contacto,NA
-814,MÉXICO,M,52,24/03/2020,confirmado,Contacto,18/03/2020
-815,CIUDAD DE MÉXICO,M,24,15/03/2020,confirmado,Francia,11/03/2020
-816,CIUDAD DE MÉXICO,F,31,19/03/2020,confirmado,Francia,04/03/2020
-817,COAHUILA,F,61,21/03/2020,confirmado,Contacto,NA
-818,CIUDAD DE MÉXICO,M,40,19/03/2020,confirmado,Contacto,NA
-819,CIUDAD DE MÉXICO,M,36,15/03/2020,confirmado,Contacto,NA
-820,CIUDAD DE MÉXICO,F,54,15/03/2020,confirmado,España,18/03/2020
-821,MÉXICO,M,58,24/03/2020,confirmado,Contacto,NA
-822,MÉXICO,M,21,20/03/2020,confirmado,Contacto,NA
-823,BAJA CALIFORNIA,M,43,18/03/2020,confirmado,Contacto,NA
-824,HIDALGO,M,61,16/03/2020,confirmado,España,16/03/2020
-825,TABASCO,F,60,24/03/2020,confirmado,Contacto,NA
-826,MÉXICO,F,46,25/03/2020,confirmado,Contacto,NA
-827,MÉXICO,F,70,26/03/2020,confirmado,Contacto,NA
-828,HIDALGO,M,46,21/03/2020,confirmado,Contacto,NA
-829,CIUDAD DE MÉXICO,M,34,14/03/2020,confirmado,Estados Unidos,13/03/2020
-830,GUERRERO,M,36,21/03/2020,confirmado,Contacto,NA
-831,MÉXICO,F,3,23/03/2020,confirmado,Estados Unidos,16/03/2020
-832,GUERRERO,M,53,20/03/2020,confirmado,Estados Unidos,11/03/2020
-833,CIUDAD DE MÉXICO,M,53,15/03/2020,confirmado,Contacto,NA
-834,GUANAJUATO,M,54,19/03/2020,confirmado,Contacto,NA
-835,CIUDAD DE MÉXICO,M,48,20/03/2020,confirmado,Contacto,NA
-836,GUANAJUATO,M,33,21/03/2020,confirmado,Italia,16/03/2020
-837,AGUASCALIENTES,M,40,23/03/2020,confirmado,Contacto,NA
-838,GUANAJUATO,M,30,25/03/2020,confirmado,Contacto,NA
-839,CAMPECHE,M,18,18/03/2020,confirmado,Estados Unidos,25/02/2020
-840,GUERRERO,M,63,20/03/2020,confirmado,Contacto,NA
-841,TABASCO,F,49,19/03/2020,confirmado,Contacto,NA
-842,SAN LUIS POTOSÍ,F,24,21/03/2020,confirmado,Contacto,NA
-843,TABASCO,M,36,20/03/2020,confirmado,Contacto,NA
-844,TABASCO,F,65,20/03/2020,confirmado,Contacto,NA
-845,PUEBLA,F,23,20/03/2020,confirmado,Contacto,NA
-846,TAMAULIPAS,M,50,21/03/2020,confirmado,Estados Unidos,16/03/2020
-847,MÉXICO,M,18,07/03/2020,confirmado,Contacto,NA
-848,MICHOACÁN,F,63,22/03/2020,confirmado,Contacto,NA
-849,GUANAJUATO,M,30,22/03/2020,confirmado,España,22/03/2020
-850,COAHUILA,F,41,22/03/2020,confirmado,Contacto,NA
-851,GUANAJUATO,F,35,14/03/2020,confirmado,Contacto,NA
-852,PUEBLA,M,55,26/03/2020,confirmado,Contacto,NA
-853,YUCATÁN,F,59,17/03/2020,confirmado,Contacto,24/03/2020
-854,YUCATÁN,F,31,17/03/2020,confirmado,Contacto,NA
-855,CIUDAD DE MÉXICO,F,28,16/03/2020,confirmado,Contacto,NA
-856,MÉXICO,F,54,14/03/2020,confirmado,Contacto,09/03/2020
+836,GUANAJUATO,M,31,19/03/2020,Sospechoso,Contacto,NA
+837,CHIAPAS,F,56,24/03/2020,Sospechoso,Contacto,NA
+838,HIDALGO,F,22,22/03/2020,Sospechoso,Contacto,NA
+839,CIUDAD DE MÉXICO,M,32,25/03/2020,Sospechoso,Contacto,NA
+840,JALISCO,F,63,13/03/2020,Sospechoso,Contacto,NA
+841,GUANAJUATO,F,46,20/03/2020,Sospechoso,Contacto,NA
+842,GUANAJUATO,M,2,21/03/2020,Sospechoso,Contacto,NA
+843,GUANAJUATO,F,24,21/03/2020,Sospechoso,Contacto,NA
+844,QUERETARO,F,29,23/03/2020,Sospechoso,Contacto,NA
+845,QUERETARO,M,31,21/03/2020,Sospechoso,Contacto,NA
+846,QUERETARO,M,24,23/03/2020,Sospechoso,Contacto,NA
+847,GUANAJUATO,M,63,22/03/2020,Sospechoso,Contacto,NA
+848,CHIAPAS,F,34,17/03/2020,Sospechoso,Contacto,17/03/2020
+849,QUERETARO,F,79,24/03/2020,Sospechoso,Contacto,NA
+850,GUANAJUATO,M,47,22/03/2020,Sospechoso,Contacto,NA
+851,QUERETARO,M,37,20/03/2020,Sospechoso,Contacto,NA
+852,COLIMA,M,32,20/03/2020,Sospechoso,Contacto,NA
+853,QUERETARO,M,28,25/03/2020,Sospechoso,Contacto,NA
+854,CIUDAD DE MÉXICO,M,27,12/03/2020,Sospechoso,Contacto,21/02/2020
+855,HIDALGO,M,30,23/03/2020,Sospechoso,Contacto,NA
+856,QUERETARO,F,39,19/03/2020,Sospechoso,Contacto,NA
+857,QUERETARO,F,41,22/03/2020,Sospechoso,Contacto,NA
+858,CHIAPAS,F,24,21/03/2020,Sospechoso,Contacto,NA
+859,QUERETARO,F,46,24/03/2020,Sospechoso,Contacto,NA
+860,CIUDAD DE MÉXICO,F,18,25/03/2020,Sospechoso,Contacto,NA
+861,QUERETARO,F,36,21/03/2020,Sospechoso,Contacto,NA
+862,QUERETARO,M,48,22/03/2020,Sospechoso,Contacto,NA
+863,TAMAULIPAS,M,34,21/03/2020,Sospechoso,Contacto,NA
+864,JALISCO,F,19,25/03/2020,Sospechoso,Contacto,NA
+865,TABASCO,F,23,21/03/2020,Sospechoso,Contacto,NA
+866,TABASCO,F,27,24/03/2020,Sospechoso,Contacto,NA
+867,CIUDAD DE MÉXICO,F,54,20/03/2020,Sospechoso,Contacto,NA
+868,JALISCO,M,24,22/03/2020,Sospechoso,Contacto,NA
+869,TABASCO,M,35,23/03/2020,Sospechoso,Contacto,NA
+870,TABASCO,F,38,24/03/2020,Sospechoso,Contacto,NA
+871,TABASCO,M,34,22/03/2020,Sospechoso,Contacto,NA
+872,CIUDAD DE MÉXICO,M,27,20/03/2020,Sospechoso,Contacto,NA
+873,CIUDAD DE MÉXICO,M,40,19/03/2020,Sospechoso,Contacto,NA
+874,TABASCO,F,51,24/03/2020,Sospechoso,Contacto,NA
+875,TABASCO,M,54,23/03/2020,Sospechoso,Contacto,NA
+876,QUINTANA ROO,F,11,26/03/2020,Sospechoso,Contacto,NA
+877,MÉXICO,M,56,24/03/2020,Sospechoso,Contacto,10/03/2020
+878,CIUDAD DE MÉXICO,F,29,18/03/2020,Sospechoso,Contacto,NA
+879,MÉXICO,F,49,16/03/2020,Sospechoso,Estados Unidos,16/03/2020
+880,SINALOA,M,38,20/03/2020,Sospechoso,Contacto,NA
+881,QUERETARO,M,29,21/03/2020,Sospechoso,Contacto,NA
+882,SINALOA,M,37,24/03/2020,Sospechoso,Contacto,NA
+883,SINALOA,F,23,23/03/2020,Sospechoso,Contacto,NA
+884,MICHOACÁN,F,21,19/03/2020,Sospechoso,Contacto,NA
+885,MÉXICO,M,25,25/03/2020,Sospechoso,Contacto,NA
+886,VERACRUZ,F,33,23/03/2020,Sospechoso,Contacto,NA
+887,TLAXCALA,M,43,23/03/2020,Sospechoso,Contacto,NA
+888,GUERRERO,F,40,25/03/2020,Sospechoso,Contacto,NA
+889,MÉXICO,F,67,21/03/2020,Sospechoso,Contacto,10/03/2020
+890,YUCATÁN,M,42,19/03/2020,Sospechoso,Contacto,NA

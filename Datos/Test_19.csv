@@ -1,108 +1,55 @@
-1019,TAMAULIPAS,M,70,24/03/2020,confirmado,Estados Unidos,24/03/2020.1
-,,,,,,,
-1020.0,SINALOA,F,69.0,19/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1021.0,JALISCO,M,46.0,18/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1022.0,GUANAJUATO,F,72.0,25/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1023.0,CHIAPAS,F,28.0,22/03/2020,confirmado,Contacto,16/03/2020
-,,,,,,,
-1024.0,JALISCO,M,16.0,22/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1025.0,BAJA CALIFORNIA,M,51.0,18/03/2020,confirmado,Contacto,27/03/2020
-,,,,,,,
-1026.0,COAHUILA,F,45.0,21/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1027.0,MÉXICO,F,32.0,15/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1028.0,MÉXICO,F,41.0,19/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1029.0,QUERETARO,M,60.0,26/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1030.0,QUINTANA ROO,M,29.0,21/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1031.0,GUANAJUATO,M,24.0,22/03/2020,confirmado,Estados Unidos,27/03/2020
-,,,,,,,
-1032.0,QUINTANA ROO,F,30.0,18/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1033.0,GUANAJUATO,F,25.0,26/03/2020,confirmado,Estados Unidos,27/03/2020
-,,,,,,,
-1034.0,GUANAJUATO,M,15.0,26/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1035.0,MÉXICO,M,48.0,20/03/2020,confirmado,Contacto,19/03/2020
-,,,,,,,
-1036.0,MÉXICO,F,28.0,22/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1037.0,TABASCO,F,6.0,27/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1038.0,SAN LUIS POTOSÍ,M,55.0,24/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1039.0,MÉXICO,M,42.0,24/03/2020,confirmado,Contacto,17/03/2020
-,,,,,,,
-1040.0,NUEVO LEÓN,M,63.0,22/03/2020,confirmado,Contacto,21/03/2020
-,,,,,,,
-1041.0,TABASCO,M,59.0,21/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1042.0,NUEVO LEÓN,M,29.0,23/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1043.0,COAHUILA,F,46.0,24/03/2020,confirmado,Estados Unidos,22/03/2020
-,,,,,,,
-1044.0,NUEVO LEÓN,M,21.0,13/03/2020,confirmado,España,18/03/2020
-,,,,,,,
-1045.0,SONORA,F,47.0,22/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1046.0,MÉXICO,F,57.0,23/03/2020,confirmado,Estados Unidos,17/03/2020
-,,,,,,,
-1047.0,SONORA,F,57.0,17/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1048.0,MÉXICO,F,31.0,27/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1049.0,SINALOA,M,62.0,21/03/2020,confirmado,Estados Unidos,NA
-,,,,,,,
-1050.0,MÉXICO,M,36.0,26/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1051.0,GUANAJUATO,M,52.0,21/03/2020,confirmado,España,15/03/2020
-,,,,,,,
-1052.0,PUEBLA,M,24.0,28/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1053.0,PUEBLA,F,49.0,28/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1054.0,PUEBLA,F,72.0,23/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1055.0,PUEBLA,F,30.0,28/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1056.0,PUEBLA,F,24.0,28/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1057.0,TABASCO,M,43.0,24/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1058.0,GUANAJUATO,M,46.0,22/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1059.0,YUCATÁN,M,37.0,19/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1060.0,SINALOA,M,60.0,25/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1061.0,PUEBLA,M,32.0,27/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1062.0,YUCATÁN,M,38.0,20/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1063.0,JALISCO,M,25.0,17/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1064.0,MÉXICO,M,34.0,19/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1065.0,MÉXICO,F,54.0,27/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1066.0,TABASCO,F,49.0,28/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1067.0,BAJA CALIFORNIA SUR,M,33.0,25/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1068.0,NAYARIT,M,71.0,23/03/2020,confirmado,Contacto,16/03/2020
-,,,,,,,
-1069.0,PUEBLA,F,43.0,24/03/2020,confirmado,Contacto,22/03/2020
-,,,,,,,
-1070.0,PUEBLA,F,75.0,23/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1071.0,TABASCO,F,50.0,23/03/2020,confirmado,Contacto,NA
-,,,,,,,
-1072.0,MÉXICO,F,30.0,20/03/2020,confirmado,Estados Unidos,23/03/2020
-,,,,,,,
+1060,TABASCO,M,24,23/03/2020,Sospechoso,Contacto,NA
+1061,PUEBLA,M,2,25/03/2020,Sospechoso,Contacto,NA
+1062,CIUDAD DE MÉXICO,F,40,27/03/2020,Sospechoso,Contacto,NA
+1063,ZACATECAS,F,27,23/03/2020,Sospechoso,Contacto,NA
+1064,TAMAULIPAS,M,30,26/03/2020,Sospechoso,Contacto,NA
+1065,BAJA CALIFORNIA SUR,F,24,22/03/2020,Sospechoso,Contacto,NA
+1066,BAJA CALIFORNIA SUR,F,37,18/03/2020,Sospechoso,Contacto,NA
+1067,AGUASCALIENTES,F,30,23/03/2020,Sospechoso,Contacto,NA
+1068,TABASCO,M,45,22/03/2020,Sospechoso,Contacto,NA
+1069,OAXACA,F,23,25/03/2020,Sospechoso,Contacto,NA
+1070,CHIHUAHUA,M,24,24/03/2020,Sospechoso,Contacto,NA
+1071,CIUDAD DE MÉXICO,M,60,27/03/2020,Sospechoso,Contacto,NA
+1072,CIUDAD DE MÉXICO,M,26,23/03/2020,Sospechoso,Contacto,NA
+1073,GUANAJUATO,F,38,22/03/2020,Sospechoso,Contacto,NA
+1074,CIUDAD DE MÉXICO,M,31,27/03/2020,Sospechoso,Contacto,NA
+1075,PUEBLA,M,33,17/03/2020,Sospechoso,Contacto,NA
+1076,TAMAULIPAS,F,38,24/03/2020,Sospechoso,Contacto,NA
+1077,SAN LUIS POTOSÍ,M,66,22/03/2020,Sospechoso,Contacto,NA
+1078,CIUDAD DE MÉXICO,F,33,27/03/2020,Sospechoso,Contacto,NA
+1079,VERACRUZ,F,52,18/03/2020,Sospechoso,Contacto,NA
+1080,BAJA CALIFORNIA SUR,M,30,23/03/2020,Sospechoso,Contacto,NA
+1081,TABASCO,F,8,25/03/2020,Sospechoso,Contacto,NA
+1082,GUERRERO,M,44,19/03/2020,Sospechoso,Contacto,NA
+1083,MICHOACÁN,F,23,22/03/2020,Sospechoso,Estados Unidos,22/03/2020
+1084,AGUASCALIENTES,F,40,13/03/2020,Sospechoso,Contacto,27/03/2020
+1085,CIUDAD DE MÉXICO,M,55,27/03/2020,Sospechoso,Contacto,NA
+1086,BAJA CALIFORNIA SUR,F,38,20/03/2020,Sospechoso,Contacto,NA
+1087,AGUASCALIENTES,M,8,27/03/2020,Sospechoso,Contacto,NA
+1088,CHIHUAHUA,F,0,24/03/2020,Sospechoso,Contacto,NA
+1089,CIUDAD DE MÉXICO,M,54,27/03/2020,Sospechoso,Contacto,NA
+1090,CIUDAD DE MÉXICO,F,13,14/03/2020,Sospechoso,Estados Unidos,14/03/2020
+1091,CIUDAD DE MÉXICO,F,90,13/03/2020,Sospechoso,Estados Unidos,17/03/2020
+1092,VERACRUZ,M,1,24/03/2020,Sospechoso,Contacto,NA
+1093,CIUDAD DE MÉXICO,M,60,27/03/2020,Sospechoso,Contacto,NA
+1094,CIUDAD DE MÉXICO,M,24,21/03/2020,Sospechoso,Contacto,NA
+1095,GUANAJUATO,M,29,26/03/2020,Sospechoso,Alemania,19/03/2020
+1096,AGUASCALIENTES,M,15,27/03/2020,Sospechoso,Contacto,NA
+1097,CIUDAD DE MÉXICO,M,49,27/03/2020,Sospechoso,Contacto,NA
+1098,TABASCO,M,12,23/03/2020,Sospechoso,Contacto,NA
+1099,MÉXICO,F,45,26/03/2020,Sospechoso,Contacto,NA
+1100,CIUDAD DE MÉXICO,M,75,11/03/2020,Sospechoso,Contacto,NA
+1101,MICHOACÁN,M,78,11/03/2020,Sospechoso,Estados Unidos,12/03/2020
+1102,TABASCO,M,56,26/03/2020,Sospechoso,Contacto,NA
+1103,VERACRUZ,F,43,26/03/2020,Sospechoso,Contacto,23/03/2020
+1104,VERACRUZ,M,19,23/03/2020,Sospechoso,Contacto,NA
+1105,VERACRUZ,M,71,25/03/2020,Sospechoso,Contacto,NA
+1106,VERACRUZ,M,49,27/03/2020,Sospechoso,Contacto,NA
+1107,CHIAPAS,M,5,22/03/2020,Sospechoso,Contacto,NA
+1108,GUANAJUATO,F,0,26/03/2020,Sospechoso,Estados Unidos,15/03/2020
+1109,CIUDAD DE MÉXICO,F,35,11/03/2020,Sospechoso,Estados Unidos,10/03/2020
+1110,OAXACA,M,38,25/03/2020,Sospechoso,Contacto,NA
+1111,CIUDAD DE MÉXICO,F,56,27/03/2020,Sospechoso,Contacto,NA
+1112,VERACRUZ,F,49,24/03/2020,Sospechoso,Contacto,NA
+1113,VERACRUZ,F,31,23/03/2020,Sospechoso,Contacto,NA
+1114,VERACRUZ,M,19,20/03/2020,Sospechoso,Contacto,NA
